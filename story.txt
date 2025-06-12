@@ -1,2 +1,3 @@
 Once upon a time, in a land of code, a new story began.
 The story was about learning VSCode and Github in 2025.
+A wise old grandpa named "Senna" watched from a tree.
